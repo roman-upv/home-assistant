@@ -1,0 +1,3 @@
+# home-assistant
+Pruebas con HA
+De momento esto no tiene el menor interes al resto de público. Sólo hacienedo pruebas... 
